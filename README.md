@@ -52,8 +52,11 @@ This reduces the critical path and improves timing.
 ## 📂 Project Structure
 
 rtl/ → ALU RTL code
+
 tb/ → Testbench
+
 waveforms/ → Simulation waveforms
+
 docs/ → Block diagrams
 
 ---
